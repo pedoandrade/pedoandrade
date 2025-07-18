@@ -15,4 +15,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
 📈 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspelicari&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroandrade&show_icons=true&theme=tokyonight)
